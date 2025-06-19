@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+openpyxl
+# Agrega aquí cualquier otra librería que uses
